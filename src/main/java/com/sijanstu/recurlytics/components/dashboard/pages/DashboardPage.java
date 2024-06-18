@@ -173,7 +173,7 @@ public class DashboardPage extends javax.swing.JPanel {
         jPanel7.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 102, 204), 1, true));
 
         jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel13.setText("Total Subscribtions");
+        jLabel13.setText("Total Subscriptions");
 
         jLabel14.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(0, 255, 255));
