@@ -1,0 +1,21 @@
+
+¬
+java:S11926"iDefine a constant instead of duplicating this literal "[dark]foreground:darken(@foreground,30%)" 3 times.(¶ëÆ8ë½€2J$93dc8b3e-3f26-48a1-85c6-7f619d7a2e75
+‹
+java:S1192<"HDefine a constant instead of duplicating this literal "gapy 10" 6 times.(òÀ8ë½€2J$30cd7262-1e6f-4847-a97b-034ab3236617
+
+java:S1450 "ZRemove the "groupGender" field and declare it as a local variable in the relevant methods.(ĞÊÏı8¾€2J$0f4fee34-13a7-4c6e-9272-ba646572d4a0
+ 
+java:S1450œ"WRemove the "jrOthers" field and declare it as a local variable in the relevant methods.(•Ù‰´ÿÿÿÿÿ8‚¾€2J$c44adfed-8e66-45a5-b036-6782a0407225
+®
+java:S1450¢"eRemove the "passwordStrengthStatus" field and declare it as a local variable in the relevant methods.(ä€ÙÆúÿÿÿÿ8‚¾€2J$297e0b9e-c6fd-4e6c-ae34-b2b2e18bd614
+w
+java:S1874_"/Remove this use of "getText"; it is deprecated.(šß¬Æüÿÿÿÿ8•¾€2J$ad5ad3a0-f597-4890-a9e4-6f58fd05da8d
+”
+java:S5998d"LRefactor this repetition that can lead to a stack overflow for large inputs.(„á§ıÿÿÿÿ8Ë’èŞ2J$24f562a7-4959-47ac-b71d-43c6fb1176f5
+r
+java:S1874h"/Remove this use of "getText"; it is deprecated.(ÚşåØ8š¾€2J$707aec60-d6cc-476c-a170-1434e815bc6e
+r
+java:S1874h"/Remove this use of "getText"; it is deprecated.(ÚşåØ8š¾€2J$2d7d041c-a6fd-48bc-bcd2-48d71db510fd
+u
+java:S1602",Remove useless curly braces around statement(œö­•ùÿÿÿÿ8Ÿ¾€2J$5c892416-0c0a-4139-bdf2-fed816885e48

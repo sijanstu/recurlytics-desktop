@@ -1,0 +1,81 @@
+
+Š
+java:S1192w"GDefine a constant instead of duplicating this literal "234875" 4 times.(‹ã8†­÷Ñ‚2J$5102d390-8179-4982-abaf-add6bc887427
+‹
+java:S1192t"IDefine a constant instead of duplicating this literal "Segoe UI" 4 times.(‘¦‘8†­÷Ñ‚2J$f4754817-51e5-4dfc-b393-242858b008e3
+¦
+java:S1450¡"]Remove the "dashboardpanel" field and declare it as a local variable in the relevant methods.(õ¨Íùıÿÿÿÿ8€ïÑ‚2J$acd42c85-403b-4f7b-b983-30072eee7c0d
+ 
+java:S1450¢"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ8ïÑ‚2J$fd3ff7a6-5acf-470a-90e6-8fb1ab882bc4
+ 
+java:S1450£"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ8‚ïÑ‚2J$b34ab9de-318c-4dde-8c85-5a11a3b81747
+›
+java:S1450¤"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡8‚ïÑ‚2J$a20e764d-045f-4aa8-a8e5-f6d1ef6edb50
+ 
+java:S1450¥"WRemove the "jLabel13" field and declare it as a local variable in the relevant methods.(ÑİĞİıÿÿÿÿ8ƒïÑ‚2J$e4c58103-8043-4a96-9755-1c29022fc697
+ 
+java:S1450¦"WRemove the "jLabel14" field and declare it as a local variable in the relevant methods.(ÖóœÍıÿÿÿÿ8„ïÑ‚2J$b56618a0-9a67-4a51-b4ae-9d704569d14d
+ 
+java:S1450§"WRemove the "jLabel15" field and declare it as a local variable in the relevant methods.(³şâçøÿÿÿÿ8„ïÑ‚2J$a1638baf-2a48-4310-8172-e2d80345da9a
+ 
+java:S1450¨"WRemove the "jLabel16" field and declare it as a local variable in the relevant methods.(š¼ª¯üÿÿÿÿ8…ïÑ‚2J$669641cf-8e41-4524-a61c-651d2052ddec
+Ÿ
+java:S1450©"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ8…ïÑ‚2J$08bbec3b-5a98-496c-9d22-ca68fd9ef434
+Ÿ
+java:S1450ª"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8‡ïÑ‚2J$012c19ef-ed32-4abd-9934-5b41cf9d880a
+Ÿ
+java:S1450«"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ8ˆïÑ‚2J$b66dec93-9d5d-4e97-b6ad-9ef139bb316f
+š
+java:S1450¬"VRemove the "jPanel5" field and declare it as a local variable in the relevant methods.(³¡©ú8ªññĞ‚2J$b85a3c1c-6cc1-4ddb-9e2f-3c8543224f13
+™
+java:S1450­"VRemove the "jPanel6" field and declare it as a local variable in the relevant methods.(í›åv8ªññĞ‚2J$501f6e0a-2dab-4d46-b67a-b6e0c0c5714e
+š
+java:S1450®"VRemove the "jPanel7" field and declare it as a local variable in the relevant methods.(…‘ï°8«ññĞ‚2J$07f27d1a-7432-418c-97e7-721ed1170de2
+š
+java:S1450¯"VRemove the "jPanel8" field and declare it as a local variable in the relevant methods.(î¥³¶8«ññĞ‚2J$4e4f4348-a950-45bf-976d-43a34ed1c100
+¤
+java:S1450±"[Remove the "jTabbedPane1" field and declare it as a local variable in the relevant methods.(†¦§Íÿÿÿÿÿ8¬ññĞ‚2J$f4711cb8-3a49-4a04-a3ce-798dc0002b42
+¢
+java:S1450µ"_Remove the "subscriberPanel1" field and declare it as a local variable in the relevant methods.(ä‹ë8®ññĞ‚2J$06bc3a9a-6eaf-4ab3-8424-ab5ffbaa9177
+©
+java:S1450¶"`Remove the "subscriberPanel10" field and declare it as a local variable in the relevant methods.(Óƒùöüÿÿÿÿ8®ññĞ‚2J$81f280c2-40a2-4ceb-9a0f-619589be542c
+£
+java:S1450·"`Remove the "subscriberPanel11" field and declare it as a local variable in the relevant methods.(“ÜÉq8¯ññĞ‚2J$6a0e3f48-754b-461e-96d5-86e1a84e1185
+¢
+java:S1450¸"_Remove the "subscriberPanel2" field and declare it as a local variable in the relevant methods.(°ªÖv8¯ññĞ‚2J$ce08cd2e-7e98-48aa-bc4a-b66cae7887eb
+©
+java:S1450¹"`Remove the "subscriberPanel23" field and declare it as a local variable in the relevant methods.(—üÄ¡øÿÿÿÿ8¯ññĞ‚2J$e5fad72e-0aaf-468e-8cf4-8985921654d2
+£
+java:S1450º"`Remove the "subscriberPanel24" field and declare it as a local variable in the relevant methods.(ŞÃ¯8°ññĞ‚2J$7641a7bb-2beb-409e-b637-2496530de4a2
+©
+java:S1450»"`Remove the "subscriberPanel25" field and declare it as a local variable in the relevant methods.(Ã™‚ùÿÿÿÿ8°ññĞ‚2J$3733f46b-909c-4637-958a-f2829d6ddc0b
+¤
+java:S1450¼"`Remove the "subscriberPanel26" field and declare it as a local variable in the relevant methods.(¤áä¾8²ññĞ‚2J$7e5b5588-caef-4f14-a7e2-f2c3ac7260ea
+©
+java:S1450½"`Remove the "subscriberPanel27" field and declare it as a local variable in the relevant methods.(Ÿ³«æøÿÿÿÿ8²ññĞ‚2J$4aa54b95-09b9-45b9-83cd-bbc6245b320f
+©
+java:S1450¾"`Remove the "subscriberPanel28" field and declare it as a local variable in the relevant methods.(‹¸Ğùÿÿÿÿ8³ññĞ‚2J$6ccb9602-4091-4fc1-85be-4dd596d5fe14
+©
+java:S1450¿"`Remove the "subscriberPanel29" field and declare it as a local variable in the relevant methods.(Ú¨÷úÿÿÿÿ8³ññĞ‚2J$d566bf9b-d8cd-48fc-bbb4-f708b7284428
+¢
+java:S1450À"_Remove the "subscriberPanel3" field and declare it as a local variable in the relevant methods.(„¦á 8´ññĞ‚2J$a51f810c-9a85-4e2a-b8be-8ee148189a96
+¤
+java:S1450Á"`Remove the "subscriberPanel30" field and declare it as a local variable in the relevant methods.(Êì¸›8´ññĞ‚2J$39a73e6c-56e3-44bc-9977-3ca6edc44eca
+¤
+java:S1450Â"`Remove the "subscriberPanel31" field and declare it as a local variable in the relevant methods.(ºÖÍè8´ññĞ‚2J$629c2a60-b471-4b61-a534-77787ea57808
+£
+java:S1450Ã"`Remove the "subscriberPanel32" field and declare it as a local variable in the relevant methods.(Î¹Ùd8´ññĞ‚2J$82ce121b-c090-408d-a582-2ce610e06eed
+¤
+java:S1450Ä"`Remove the "subscriberPanel33" field and declare it as a local variable in the relevant methods.(ŞİÏ¦8µññĞ‚2J$da045b04-a1de-4d28-93ce-766914dc2516
+£
+java:S1450Å"_Remove the "subscriberPanel4" field and declare it as a local variable in the relevant methods.(ÛÛÚº8µññĞ‚2J$cddfffc3-9a4f-41e6-bbc0-0c24b92a7f8e
+¨
+java:S1450Æ"_Remove the "subscriberPanel5" field and declare it as a local variable in the relevant methods.(Å‰ı ùÿÿÿÿ8·ññĞ‚2J$aa37b05f-0c34-4f58-9f64-52d4c18f114c
+¨
+java:S1450Ç"_Remove the "subscriberPanel6" field and declare it as a local variable in the relevant methods.(ş¤È¸üÿÿÿÿ8·ññĞ‚2J$b3549a93-54e1-445f-b5e7-5fdf87447b6f
+£
+java:S1450È"_Remove the "subscriberPanel7" field and declare it as a local variable in the relevant methods.(Ãß‹Û8¸ññĞ‚2J$859aa330-cd3a-4c07-b34c-834789b33887
+¨
+java:S1450É"_Remove the "subscriberPanel8" field and declare it as a local variable in the relevant methods.(´¹•şÿÿÿÿ8¸ññĞ‚2J$b32a91e1-2d96-4e67-bc26-bc285be47bd7
+¨
+java:S1450Ê"_Remove the "subscriberPanel9" field and declare it as a local variable in the relevant methods.(Ÿş¹Öşÿÿÿÿ8¹ññĞ‚2J$781625c0-e4d0-41db-883d-a9ad2b85ba4c

@@ -1,0 +1,11 @@
+
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ŞÓå¶‚2J$d7dadc44-b9ea-400b-906f-5e72d96dc65c
+m	java:S106#"+Replace this use of System.out by a logger.(ÏÖáã8ã¶‚2J$db1b3539-e9d9-4368-8a2b-1f94be48b20d
+m	java:S106("+Replace this use of System.out by a logger.(İŠ–é8Ÿã¶‚2J$2350ab65-fbec-4dc0-8262-59bc73753fb3
+m	java:S106)"+Replace this use of System.out by a logger.(¦ˆÓæ8Ÿã¶‚2J$338f8810-03ee-40e3-b439-70ef116d6c5b
+r	java:S106*"+Replace this use of System.out by a logger.(İêˆşÿÿÿÿ8Ÿã¶‚2J$98163dc2-df21-471b-9972-2a0e1218c482
+m	java:S106/"+Replace this use of System.out by a logger.(Ø·î 8 ã¶‚2J$5fffd91d-da43-4789-862b-5704f5dcfbe3
+m	java:S1064"+Replace this use of System.out by a logger.(ÿğøí8 ã¶‚2J$ba038fb6-ab7b-4715-8361-3e7299f5c56d
+l	java:S106:"+Replace this use of System.out by a logger.(”ûÇY8£ã¶‚2J$cc80cdd9-22db-45fd-a135-13fbd830955d
+r	java:S106@"+Replace this use of System.out by a logger.(·è¨ÿÿÿÿÿ8€é¶‚2J$a48c4e46-f8bb-4798-a309-f9452d2545b8

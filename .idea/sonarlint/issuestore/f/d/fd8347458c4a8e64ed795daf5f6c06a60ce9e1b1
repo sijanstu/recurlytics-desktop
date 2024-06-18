@@ -1,0 +1,17 @@
+
+
+java:S1450ƒ"[Remove the "chRememberMe" field and declare it as a local variable in the relevant methods.(ê®Â©úÿÿÿÿJ$6d947068-75e3-40a4-b155-506dba416fda
+™
+java:S1450„"WRemove the "cmdLogin" field and declare it as a local variable in the relevant methods.(å©‹×ıÿÿÿÿJ$95b2e259-b358-4f69-80d0-9375cc2950a2
+r
+java:S1874 "/Remove this use of "getText"; it is deprecated.(Œ¹Üœ8¿óô€2J$fb031303-ca7c-4110-9139-388f0ab0ee56
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(Üˆõóûÿÿÿÿ8Âóô€2J$7d8a018b-1ac7-4eb7-9d04-ba4f70ad39c6
+h
+java:S1602H",Remove useless curly braces around statement(°Û¥ìJ$8787bcc3-c25a-4006-b6d1-6bc40d592648
+|	java:S125K"<This block of commented-out lines of code should be removed.(à¤õÿÿÿÿÿJ$c7cac34c-4094-42d4-8d6d-746b378bf140
+m
+java:S1602f",Remove useless curly braces around statement(ÃÊ­†øÿÿÿÿJ$d4fd29f0-3ca3-45d2-975e-ab94aefc8329
+š
+java:S2142y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$4b17c3b7-106d-45fe-8c50-9c28a997e428
+r
+java:S1068ƒ"0Remove this unused "chRememberMe" private field.(ê®Â©úÿÿÿÿJ$4fe8cac7-82c8-438f-b4cf-ffdbb9c179db

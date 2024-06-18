@@ -1,0 +1,48 @@
+
+•
+java:S1104
+"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(ûÅ“âøÿÿÿÿJ$00e06767-4421-4f97-9f38-ab7db123358d
+¥
+java:S1319("dThe type of "HEADERS" should be an interface such as "Map" rather than the implementation "HashMap".(öß•‰ıÿÿÿÿJ$75eb9c30-9fe4-4aaf-8ba5-6fb1d4d87494
+o
+java:S1444
+".Make this "public static BASE_URL" field final(ûÅ“âøÿÿÿÿJ$f56183bf-4b16-453f-b705-4f63332237b0
+”
+java:S3008
+"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÅ“âøÿÿÿÿJ$9fdd9360-3523-4bfe-96f9-1c51172caf8f
+^
+java:S2386("Make this member "protected".(öß•‰ıÿÿÿÿJ$fcc3faa2-f96d-489e-aaf6-308e440625ba
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(å×Ú¸ùÿÿÿÿJ$8eb8771a-6ccd-4b17-b700-7a190e797840
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(÷İà›úÿÿÿÿJ$5fcc2b25-c860-4df2-923f-aed1a416ebce
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰¦ÊĞûÿÿÿÿJ$0780b33b-9905-43f4-b0cb-bcd7358c67e6
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŞŠŞÑıÿÿÿÿJ$dde38c06-20d8-4bcb-9f35-2fe508d72d85
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Æï¿ïûÿÿÿÿJ$26251755-be7a-4274-8402-eed646682265
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(î¯‹ğüÿÿÿÿJ$3a33eda9-3070-49c7-907a-6e7821e6890b
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±Î¼J$dd69d092-933f-435d-9574-5c90ff5d1edf
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÇè¤şÿÿÿÿJ$6184249d-0d33-4db0-bdd5-25302fbbd12b
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒ³†ÜJ$967ea14b-f1e0-473a-b58d-7af96ee79784
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½…çúÿÿÿÿJ$77249f37-cd51-42f0-bb2f-50069f5cd152
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(òä ğøÿÿÿÿJ$9197f06a-e641-4c53-88fc-43fe2356a2f6
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(µÏØ«ûÿÿÿÿJ$550988f8-2fb7-45fc-bfbd-d581d0b4d051
+†
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(×‘È¬ùÿÿÿÿJ$a6de2b19-91bc-4aae-9d51-903ef3692efa
+w
+java:S2696#"6Make the enclosing method "static" or remove this set.(î¼ø¦ûÿÿÿÿJ$fe11e47d-f55d-48b2-9c90-3f72849b5ee5
+m
+java:S3599(",Use another way to initialize this instance.(öß•‰ıÿÿÿÿJ$c5e099e5-29d3-47dd-8f71-44a705bda0a8
+š
+java:S1171("YMove the contents of this initializer to a standard constructor or to field initializers.(öß•‰ıÿÿÿÿJ$ac24600a-2ebe-43f9-8828-abed94478fe2
+w	java:S125*"<This block of commented-out lines of code should be removed.(¿¹›‰J$f17c6152-bf33-4f4d-bbf8-482be4b7319f
+|	java:S125."<This block of commented-out lines of code should be removed.(¼¬…ÊÿÿÿÿÿJ$9ae0b01e-8e39-4dbf-a06c-53b071f339e4
