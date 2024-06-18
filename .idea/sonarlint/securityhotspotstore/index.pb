@@ -36,3 +36,6 @@ z
 Jsrc/main/java/com/sijanstu/recurlytics/components/dashboard/Dashboard.java,a\2\a232fb67be0b5111a3fe98152db15840f5180003
 „
 Tsrc/main/java/com/sijanstu/recurlytics/components/dashboard/pages/DashboardPage.java,b\3\b3606f26f7171eca79b4a44514a9848dd63be971
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
